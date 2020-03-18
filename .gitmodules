@@ -1,0 +1,6 @@
+[submodule "simple-typed-app"]
+	path = simple-typed-app
+	url = https://github.com/Magicianred/react-simple-typed-app.git
+[submodule "simple-app"]
+	path = simple-app
+	url = https://github.com/Magicianred/react-simple-app.git
