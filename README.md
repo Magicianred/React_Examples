@@ -1,12 +1,12 @@
 # React_Tests
-Some test of React (plain javascript and Typescript)
+Some tests of React (plain javascript and Typescript)
 
-[Docs](https://github.com/Magicianred/React_Tests/simple-app/README.md)
+[Docs](https://github.com/Magicianred/react-simple-app/blob/master/README.md)
 
 ## simple-app (plain javascript) 
 A simple app of React with Routing, some functional component and class component, Docs and Testing 
 
-[Docs](https://github.com/Magicianred/React_Tests/simple-typed-app/README.md)
+[Docs](https://github.com/Magicianred/react-simple-typed-app/blob/master/README.md)
 
 ### ToDo
 - add testing of Routing
