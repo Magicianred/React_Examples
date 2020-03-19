@@ -1,7 +1,8 @@
 simple-app and simple-typed-app
 ===============================
 
-A site template for a informational site 
+A site template for a simple informational site  
+[Features in Gerkin](https://github.com/Magicianred/React_Tests/tree/develop/Project/Features)  
 
 ## Site map
 > Home  
