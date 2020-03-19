@@ -7,14 +7,15 @@ simple-app and simple-typed-app
 -------------------------------
 
 A simple app for testing framework or library.  
-[Definitions and goals of the app](https://github.com/Magicianred/React_Tests/blob/develop/Project/definition.md)
+[Definitions and goals of the app](https://github.com/Magicianred/React_Tests/blob/develop/Project/definition.md)  
+[Features in Gerkin](https://github.com/Magicianred/React_Tests/tree/develop/Project/Features)  
 
 
-## react-simple-app (plain javascript)  
+### react-simple-app (plain javascript)  
 A simple app of React with Routing, some functional component and class component, Docs and Testing  
 [Docs](https://github.com/Magicianred/react-simple-app/blob/master/README.md)
 
-## react-simple-typed-app (typescript) 
+### react-simple-typed-app (typescript) 
 A simple app of React with Routing, some functional component and class component, Docs and Testing  
 
 [Docs](https://github.com/Magicianred/react-simple-typed-app/blob/master/README.md)  
