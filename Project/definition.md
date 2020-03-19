@@ -10,16 +10,21 @@ Home page of the site who show message to users
 A page whom presente the project or web site  
 >>> Who Are  
 A page who speaks about the team and details of each person  
+  
 >>> Where are  
 A page who speaks about the places and details of each place  
+  
 >>> Contact Us  
 A page who explain how contact us and present a form to contact  
 >>>> Thanks for contact us  
 A page to say thanks for contact and show a summary of your message  
+  
 >> Not Found  
 A page 404 not found  
+  
 >> Error Page  
 A page who notify to user an error  
+
 
 ## Who Are Page  
 The Who Are is a page for show the team information and an hub for show each person of the team.  
