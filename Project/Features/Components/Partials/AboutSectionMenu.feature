@@ -6,6 +6,6 @@ Feature: Show the About Section Menu
     Scenario: Show About Section Menu
         Given path '/about'
         Then I show the about section menu
-        And I show the link to '/about' (about us page)
-        And I show the link to '/whoare' (who are page)
-        And I show the link to '/whereare' (where are page)
+            And I show the link to '/about' (about us page)
+            And I show the link to '/whoare' (who are page)
+            And I show the link to '/whereare' (where are page)

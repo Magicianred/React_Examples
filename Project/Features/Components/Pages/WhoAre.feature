@@ -10,7 +10,7 @@ Feature: Show the Who Are page
     Scenario: Show the about section menu
         Given path '/about/whoare'
         Then I show the about section menu
-        And I don't see any people details
+            But I don't see any people details
 
     Scenario: Show almost one link/button to Person details
         Given path '/about/whoare'
@@ -19,4 +19,4 @@ Feature: Show the Who Are page
     Scenario: Click on link/button to Person details
         Given path '/about/whoare'
         Then I click on link/button
-        And I show people details
+            And I show people details

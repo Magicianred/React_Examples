@@ -6,7 +6,7 @@ Feature: Show the Error page
     Scenario: Show Error page
         Given path '/error'
         Then I show Error page
-        And I see the text 'not found'
+            And I see the text 'not found'
 
     Scenario: Show the header
         Given path '/'

@@ -6,9 +6,9 @@ Feature: Show the Header site
     Scenario: Show Header site
         Given path '/'
         Then I show the header of the site
-        And I show the site logo
-        And I show the link to '/' (home page)
-        And I show the link to '/about' (about us page)
-        And I show the link to '/contact' (contact us page)
-        And I show the link to '/abcdefg' (an incorrect path to go NotFound page)
-        And I show the link to '/docs' (documentazione)
+            And I show the site logo
+            And I show the link to '/' (home page)
+            And I show the link to '/about' (about us page)
+            And I show the link to '/contact' (contact us page)
+            And I show the link to '/abcdefg' (an incorrect path to go NotFound page)
+            And I show the link to '/docs' (documentazione)

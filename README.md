@@ -22,10 +22,12 @@ A simple app of React with Routing, some functional component and class componen
 
 ### ToDo
 - complete site structure
-- add testing of Routing
+- ~~add testing of primary site Routing~~
 - add json data for people in whoare page
 - add json data for places in where page
 - add form module in contact us page
+- add testing of Feature App - Scenario: error page
+- add testing of Routing About Section
 - complete graphics with react-bootstrap
 - ~~improve routing with sub paths (page About, About/WhoAre and About/WhereAre)~~
 - improve docs with jsdoc

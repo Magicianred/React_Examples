@@ -10,7 +10,7 @@ Feature: Show the Where Are page
     Scenario: Show the about section menu
         Given path '/about/whereare'
         Then I show the about section menu
-        And I don't see any place details
+            But I don't see any place details
 
     Scenario: Show almost one link/button to Place details
         Given path '/about/whereare'
@@ -19,4 +19,4 @@ Feature: Show the Where Are page
     Scenario: Click on link/button to Place details
         Given path '/about/whereare'
         Then I click on link/button
-        And I show place details
+            And I show place details

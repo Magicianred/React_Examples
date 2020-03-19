@@ -6,4 +6,4 @@ Feature: Show the Footer site
     Scenario: Show Footer site
         Given path '/'
         Then I show the footer of the site
-        And I show the text 'This is the footer'
+            And I show the text 'This is the footer'

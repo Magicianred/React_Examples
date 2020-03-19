@@ -25,5 +25,5 @@ Feature: Show a home page
 
     Scenario: I press the next button
         Given path '/'
-        And I click the button Next
+            And I click the button Next
         Then I show the second message

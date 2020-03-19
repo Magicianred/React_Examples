@@ -6,17 +6,17 @@ Feature: Show the Not Found page
     Scenario: Show Not Found page
         Given path '/notfound'
         Then I show Not Found page
-        And I see the text 'not found'
+            And I see the text 'not found'
 
-    Scenario: Show Not Found page
+    Scenario: Show Not Found page with invalid path
         Given path '/invalidpath'
         Then I show Not Found page
-        And I see the text 'not found'
+            And I see the text 'not found'
 
-    Scenario: Show Not Found page
+    Scenario: Show Not Found page with invalid path 2
         Given path '/incorrectpath'
         Then I show Not Found page
-        And I see the text 'not found'
+            And I see the text 'not found'
 
     Scenario: Show the header
         Given path '/'
