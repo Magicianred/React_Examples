@@ -4,3 +4,9 @@
 [submodule "simple-app"]
 	path = simple-app
 	url = https://github.com/Magicianred/react-simple-app.git
+[submodule "react-base-info-site"]
+	path = react-base-info-site
+	url = https://github.com/Magicianred/react-base-info-site
+[submodule "react-carousel-info-site"]
+	path = react-carousel-info-site
+	url = https://github.com/Magicianred/react-carousel-info-site
