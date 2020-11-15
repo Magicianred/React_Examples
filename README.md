@@ -3,6 +3,8 @@ React_Tests
 
 Some tests of React (plain javascript and Typescript)
 
+[Some note and info on React](Info.md)
+
 simple-app and simple-typed-app
 -------------------------------
 
