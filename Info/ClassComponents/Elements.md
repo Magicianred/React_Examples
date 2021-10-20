@@ -1,4 +1,6 @@
-# React Components  
+# Elementi di React  
+L'elemento principale e di base di React sono i *component*.  
+Ci sono diversi tipi di componenti, ognuno ha caratteristiche diverse ed è più o meno indicato ad un certo scopo.  
 
 ## Component Types  
 * [Functional Component](#functional-component)  

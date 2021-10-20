@@ -1,9 +1,9 @@
-React_Tests
+React_Examples
 ===============================
 
-Some tests of React (plain javascript and Typescript)
+Some tests of React (plain javascript and Typescript)  
 
-[Some note and info on React](Info.md)
+[Some note and info about React](Info.md)  
 
 simple-app and simple-typed-app
 -------------------------------

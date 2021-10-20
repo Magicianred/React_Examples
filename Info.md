@@ -1,6 +1,9 @@
-# Appunti su React
+# Appunti su React  
 
-[Tipi di Componenti React](Info/ReactComponents.md)  
+[Documentazione ufficiale](https://reactjs.org/docs/getting-started.html)  
+
+[Tipi di Elementi in React](Info/Elements.md)  
+Tipi di Componenti React e altri costrutti  
 
 [Ciclo di vita di React (livecycle)](Info/ReactLifecycle.md)  
 
@@ -9,3 +12,4 @@
 [Redux-saga](Info/Redux-saga.md)  
 
 [Immer](Info/Immer.md)  
+
